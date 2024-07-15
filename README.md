@@ -35,6 +35,7 @@ The project's codebase is organized into different files and folders to maintain
 1.  index.html: Contains the structure of the game board using <div> elements styled with CSS classes for grid layout.
 2.  style.css: Defines the visual appearance of the game board, cells, and overall interface. Uses classes to style different states (e.g., hover effects on cells).
 3.  script.js: Implements the game logic and user interaction
+   
            Initialization: Initializes variables to track game state (current player, board status).
            Event Listeners: Listens for clicks on board cells and executes functions to update game state.
            Game Mechanics: Includes functions to check for a winner after each move, update the UI accordingly, and handle game reset.
