@@ -10,20 +10,20 @@ The Tic-Tac-Toe project i have developed is a classic game implemented using HTM
 Features
 --------
 1.  User Interface:
-             Clean and minimalistic design using HTML and CSS.
-             Grid layout for the Tic-Tac-Toe board with clickable cells.
+           i)  Clean and minimalistic design using HTML and CSS.
+          ii)  Grid layout for the Tic-Tac-Toe board with clickable cells.
 
 2.  Game Logic:
-             Implemented in JavaScript to handle game rules and player turns.
-             Logic to determine winning conditions (three consecutive X's or O's).
+           i)  Implemented in JavaScript to handle game rules and player turns.
+          ii)  Logic to determine winning conditions (three consecutive X's or O's).
 
 3.  User Interaction:
-              Click events on the board cells to place X's and O's.
-              Feedback for current player's turn and game status (winner or draw).
+            i)  Click events on the board cells to place X's and O's.
+           ii)  Feedback for current player's turn and game status (winner or draw).
 
 4.  Responsive Design:
-              Ensures the game is playable on various screen sizes, adapting layout using CSS media queries.
+            i)  Ensures the game is playable on various screen sizes, adapting layout using CSS media queries.
 
 5.  Game Reset:
-              Option to reset the game board to play again after a win or draw.
+            i) Option to reset the game board to play again after a win or draw.
 
